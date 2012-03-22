@@ -3,7 +3,7 @@
 # 99XXXXXX, 99XXXXXX, 99XXXXXX
 
 function hello1() {
-print(“hello, member1’s name”);
+print(“hello, s9931’s name”);
 }
 
 function hello2() {
